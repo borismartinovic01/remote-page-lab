@@ -1,0 +1,15 @@
+build/
+cmake-build-*/
+out/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.profraw
+*.profdata
+compile_commands.json
+.DS_Store
+.vscode/
+.idea/
