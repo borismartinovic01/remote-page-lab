@@ -15,12 +15,3 @@ struct Page {
     storage::PageBuffer buffer{};
 };
 }
-
-
-
-// Milestone 1 TODO:
-// - define PageId;
-// - define the fixed-size page representation;
-// - document page size and whether page contents are bytes or a typed structure.
-//
-// Keep this header independent of cache, storage, and metrics implementations.
